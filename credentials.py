@@ -1,4 +1,4 @@
-consumer_key = 'FrzXjge8Bu34isyaKD4Pz2TEv'
-consumer_secret = 'SHbJIdBVYuXR3B1SuscDitgsBb8OAbuwFSEUkZMpCtmvsCgSvt'
-access_token = '1303980813088894977-g3nPtJrV95gRYxZXU1kxnKsE1fHszk'
-access_token_secret = 'NPmfZ8hRyYAETIcWdu8ILPF9tfDuh9WjcT1XjlGdECcXD'
+consumer_key = 'NWyZs8uus4536vVRq8qocrbd6'
+consumer_secret = 'ZXX1dC2XDexAGEf2dyBMP3lmT0Bz1UV1up2nO4lsUgG8hAXDuY'
+access_token = '1303980813088894977-d5CbTxcQON4m9jnvLrxBSCSfE82vT4'
+access_token_secret = '5bGg4UmoWspTTLtZOZymNKw6cFqNS4HQgYTd1pqVNNT27'
